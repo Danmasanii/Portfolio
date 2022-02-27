@@ -1,4 +1,4 @@
-# Abdulazeez Saidu 👋
+# Abdulazeez Saidu 
 
 ## Front End Developer
 - 🌱 GDSC Ex-Lead(2020-2021), a university-based tech club for aspiring developer
